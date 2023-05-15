@@ -1,0 +1,35 @@
+body {
+    background-color: #838383;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 10%;
+};
+
+input {
+    width: 40em;
+};
+
+section {
+    margin-left: auto;
+    margin-right: auto;
+};
+
+ul {
+    width: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+};
+
+button {
+    background-color: #0099ff;
+    color: #3a3a3a;
+    margin-left: 3px
+};
+
+.checkbox {
+    display: inline-block;
+}
+
+li {
+    margin: 3px;
+};
